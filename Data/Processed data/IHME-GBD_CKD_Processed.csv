@@ -1,0 +1,529 @@
+"","population_group_name","measure_name","location_name","sex_name","age_name","cause_name","metric_name","year","val","upper","lower"
+"1","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2014,9.892612134,12.63567505,6.736317666
+"2","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2014,7.476729097,9.293009601,5.857157581
+"3","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2014,0.326301934,0.421514339,0.24570168
+"4","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2014,0.276221208,0.364207404,0.197139809
+"5","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2014,48.10982186,61.22218753,31.77540685
+"6","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2014,45.96012138,54.21320112,35.87867438
+"7","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2014,3.029755662,3.684248339,2.26695816
+"8","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2014,2.025589207,2.513910697,1.646872552
+"9","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2013,10.15989739,12.92157652,6.957347749
+"10","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2013,7.801728108,9.595481807,6.047343576
+"11","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2013,0.349413671,0.441721759,0.253657366
+"12","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2013,0.292196358,0.382292408,0.207093094
+"13","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2013,49.1885305,61.95251796,31.89121671
+"14","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2013,46.62942927,56.46042973,35.93467791
+"15","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2013,3.078147608,3.691567598,2.355393308
+"16","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2013,2.079549306,2.541118629,1.686229548
+"17","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2014,25.71666409,30.97261776,21.53279665
+"18","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2014,18.92812975,22.54401683,16.08902742
+"19","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2014,1.250890648,1.786045322,0.902102236
+"20","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2014,1.013729266,1.467811852,0.721433674
+"21","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2014,102.1974063,117.2651931,88.62168445
+"22","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2014,88.39342559,100.9801939,75.79863658
+"23","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2014,6.36168917,7.773326457,5.26459979
+"24","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2014,4.816964502,6.000840377,3.959179597
+"25","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2013,25.62516681,31.0864182,21.34301102
+"26","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2013,18.67700956,22.42096424,15.68575664
+"27","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2013,1.245424694,1.763581424,0.8946315
+"28","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2013,1.00844229,1.458991255,0.707262075
+"29","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2013,103.184023,119.089782,88.64497881
+"30","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2013,88.74233105,101.5346341,75.43125026
+"31","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2013,6.380176644,7.812052808,5.296374835
+"32","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2013,4.739291109,5.823143137,3.902725776
+"33","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2015,26.20949966,31.75117949,22.1049455
+"34","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2015,19.49591567,23.62651459,16.61056935
+"35","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2015,1.253811016,1.772823642,0.907324403
+"36","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2015,1.018528362,1.483798334,0.715892346
+"37","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2015,103.5702658,118.0215981,90.73526969
+"38","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2015,90.30857395,103.1648571,77.28843417
+"39","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2015,6.411140107,7.845954638,5.326127918
+"40","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2015,4.925013636,6.110432646,4.078891012
+"41","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2016,26.6594242,32.32112783,22.4896455
+"42","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2016,19.85925746,24.21139177,17.07434507
+"43","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2016,1.264125437,1.752923601,0.913244397
+"44","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2016,1.025809302,1.47000945,0.730664737
+"45","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2016,103.8954008,118.7138928,90.90116744
+"46","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2016,90.31631966,103.4001111,77.64171053
+"47","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2016,6.501986458,7.863163813,5.426668369
+"48","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2016,5.010100853,6.133411076,4.142840972
+"49","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2015,9.978700483,12.21155873,6.788238654
+"50","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2015,7.394254162,8.96140247,5.839445378
+"51","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2015,0.310519002,0.4056162,0.233774263
+"52","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2015,0.269577728,0.358518325,0.189004573
+"53","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2015,48.32954028,61.68781991,32.81041101
+"54","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2015,46.15981305,53.89707703,36.08780848
+"55","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2015,3.069187256,3.668329774,2.305548402
+"56","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2015,2.023271094,2.550314375,1.641609208
+"57","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2016,10.4000145,12.72746065,6.98690022
+"58","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2016,7.479239736,9.06010421,5.998272835
+"59","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2016,0.293893145,0.387905207,0.218508346
+"60","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2016,0.261084626,0.349367778,0.190094443
+"61","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2016,49.80739905,61.68153945,34.46991435
+"62","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2016,47.3093188,54.75902947,37.82997241
+"63","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2016,3.140493596,3.807079264,2.347207559
+"64","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2016,2.031749085,2.618014038,1.680759669
+"65","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2017,10.53582254,12.87713836,7.182964455
+"66","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2017,7.401180354,9.26360515,5.865970722
+"67","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2017,0.271798349,0.363219281,0.1977877
+"68","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2017,0.246854958,0.341046714,0.181057299
+"69","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2017,49.42414999,59.82847359,34.86322666
+"70","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2017,46.72796061,53.9397463,37.61769733
+"71","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2017,3.108293384,3.73922217,2.371440722
+"72","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2017,1.990388819,2.620424426,1.671589714
+"73","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2017,26.65719945,32.25364655,22.66278894
+"74","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2017,19.84565651,24.22536025,17.03997293
+"75","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2017,1.274009262,1.758773467,0.903362035
+"76","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2017,1.033574452,1.499030059,0.735381168
+"77","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2017,104.4290709,118.3930958,91.60364364
+"78","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2017,90.99659878,104.3269036,78.60291766
+"79","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2017,6.533223519,7.797838816,5.473629721
+"80","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2017,5.051649924,6.104583203,4.227827811
+"81","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2018,10.2716013,12.38327647,6.949714553
+"82","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2018,7.083553651,8.90081316,5.521387322
+"83","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2018,0.249765525,0.342753923,0.183336781
+"84","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2018,0.2324787,0.325993518,0.167705966
+"85","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2018,46.41847889,54.75217665,33.45272208
+"86","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2018,43.47576576,50.02033587,34.28430637
+"87","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2018,2.964815273,3.504097967,2.303321359
+"88","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2018,1.892543526,2.471234329,1.575733461
+"89","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2018,26.06163423,31.29125896,22.12614777
+"90","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2018,19.4071804,23.58534647,16.67578221
+"91","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2018,1.276287413,1.805420682,0.897117465
+"92","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2018,1.036845133,1.501120334,0.734783596
+"93","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2018,103.0100061,117.1521947,89.97248299
+"94","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2018,89.77385302,102.6192095,77.87204817
+"95","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2018,6.481778862,7.719926743,5.431196296
+"96","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2018,5.060591936,6.086859162,4.200534405
+"97","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2019,25.57957834,30.73233235,21.66106004
+"98","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2019,19.08693833,22.87784514,16.41938963
+"99","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2019,1.269240638,1.763016251,0.884632636
+"100","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2019,1.039357148,1.503833724,0.741686208
+"101","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2019,102.186119,116.2835296,89.06496319
+"102","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2019,89.06331495,102.0642816,75.79634815
+"103","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2019,6.472127406,7.77580798,5.425036252
+"104","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2019,5.10868662,6.246623446,4.230275445
+"105","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2020,25.54180221,30.65255145,21.36026963
+"106","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2020,19.04018985,23.06375344,16.12686833
+"107","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2020,1.279053277,1.845081017,0.904493397
+"108","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2020,1.050316623,1.534762495,0.729421954
+"109","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2020,103.3736748,117.6235606,89.94500033
+"110","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2020,88.85699839,102.1608342,75.70675454
+"111","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2020,6.498074583,7.884523108,5.40048262
+"112","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2020,5.169804614,6.337078156,4.272272874
+"113","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2019,9.74941336,11.53045242,6.844268191
+"114","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2019,6.697635601,8.604527004,5.349030434
+"115","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2019,0.232222591,0.322340429,0.171107156
+"116","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2019,0.221401101,0.318211581,0.153180818
+"117","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2019,42.21016906,49.10542341,31.44921422
+"118","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2019,39.48422738,45.48065135,29.4602694
+"119","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2019,2.773177154,3.291678429,2.144230386
+"120","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2019,1.781233151,2.344026535,1.494396161
+"121","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2020,9.487575859,11.04609595,6.701930986
+"122","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2020,6.481613416,8.296030078,5.30156151
+"123","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2020,0.22145728,0.300990957,0.155886756
+"124","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2020,0.215785115,0.317337213,0.151195356
+"125","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2020,40.06755077,46.36666936,30.43305659
+"126","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2020,37.25361581,43.55657665,29.97786377
+"127","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2020,2.640611756,3.170981699,2.054395839
+"128","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2020,1.698983788,2.31308812,1.415491128
+"129","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2021,26.62496007,32.19632209,22.06275789
+"130","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2021,19.94628988,24.10158433,16.53537559
+"131","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2021,1.296110613,1.888205351,0.921063778
+"132","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2021,1.067778958,1.534262268,0.72532394
+"133","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2021,105.4450697,120.3947491,92.22486388
+"134","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2021,90.04663687,103.6855512,76.69790005
+"135","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2021,6.88580007,8.299623351,5.74290975
+"136","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2021,5.431946808,6.719782711,4.412210509
+"137","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2021,10.63525278,12.91143136,7.36396058
+"138","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2021,7.052702509,9.277182027,5.428713152
+"139","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2021,0.212870984,0.297335168,0.15152527
+"140","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2021,0.215502168,0.315795147,0.145526377
+"141","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2021,43.81389912,50.66890405,33.2545972
+"142","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2021,39.86204981,47.54030112,31.76142157
+"143","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2021,2.731023774,3.437691558,2.095071431
+"144","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2021,1.731737173,2.37870674,1.360887308
+"145","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2023,25.34501645,31.18501544,20.53650327
+"146","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2023,19.78973471,24.43981685,16.14913255
+"147","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2023,1.315130947,1.961832949,0.885922396
+"148","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2023,1.092820789,1.543433094,0.73604597
+"149","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2023,104.8611565,120.0772793,89.27489934
+"150","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2023,93.32932639,108.8527576,77.12468434
+"151","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2023,6.846282701,8.355778533,5.517584394
+"152","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2023,5.792545847,7.137471454,4.633843635
+"153","All Population","Deaths","Global","Male","55-59 years","Chronic kidney disease","Rate",2022,26.04736534,31.19713819,21.44150546
+"154","All Population","Deaths","Global","Female","55-59 years","Chronic kidney disease","Rate",2022,19.90231994,24.22497816,16.56493838
+"155","All Population","Deaths","Global","Male","<20 years","Chronic kidney disease","Rate",2022,1.285254499,1.88286546,0.885192759
+"156","All Population","Deaths","Global","Female","<20 years","Chronic kidney disease","Rate",2022,1.052837539,1.50951417,0.719385481
+"157","All Population","Deaths","Global","Male","60+ years","Chronic kidney disease","Rate",2022,105.398398,120.5734534,90.60849122
+"158","All Population","Deaths","Global","Female","60+ years","Chronic kidney disease","Rate",2022,92.57104376,107.1076058,78.34999664
+"159","All Population","Deaths","Global","Male","20-54 years","Chronic kidney disease","Rate",2022,6.737021473,8.144173443,5.570171836
+"160","All Population","Deaths","Global","Female","20-54 years","Chronic kidney disease","Rate",2022,5.587254978,6.906713125,4.520307086
+"161","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2022,12.04305573,16.34195796,8.189483413
+"162","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2022,7.975646206,10.77970207,5.613767796
+"163","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2022,0.209007311,0.3081044,0.141269762
+"164","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2022,0.211273446,0.328172384,0.133684445
+"165","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2022,46.40744821,55.12150062,34.46407353
+"166","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2022,41.17019966,50.56568119,31.10286727
+"167","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2022,2.907905935,3.723514136,2.134685271
+"168","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2022,1.856291674,2.615513052,1.427576527
+"169","All Population","Deaths","China","Male","55-59 years","Chronic kidney disease","Rate",2023,9.64972333,13.92089177,6.514850562
+"170","All Population","Deaths","China","Female","55-59 years","Chronic kidney disease","Rate",2023,6.912005034,9.815048516,4.463115556
+"171","All Population","Deaths","China","Male","<20 years","Chronic kidney disease","Rate",2023,0.219259286,0.312220176,0.142088713
+"172","All Population","Deaths","China","Female","<20 years","Chronic kidney disease","Rate",2023,0.207952258,0.313987412,0.127470033
+"173","All Population","Deaths","China","Male","60+ years","Chronic kidney disease","Rate",2023,43.38415484,53.93863451,31.98781644
+"174","All Population","Deaths","China","Female","60+ years","Chronic kidney disease","Rate",2023,42.24356382,53.38431171,31.62206385
+"175","All Population","Deaths","China","Male","20-54 years","Chronic kidney disease","Rate",2023,2.838122875,3.744510321,2.070863083
+"176","All Population","Deaths","China","Female","20-54 years","Chronic kidney disease","Rate",2023,1.889045054,2.672503803,1.299372202
+"177","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2014,1138.318697,1363.002238,955.5917991
+"178","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2014,867.2312381,1010.54853,731.4147422
+"179","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2014,105.7674454,149.5217654,78.34642315
+"180","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2014,87.56154884,123.4412691,63.70952181
+"181","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2014,2305.992925,2651.12442,2011.043634
+"182","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2014,1892.578833,2138.232281,1683.356105
+"183","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2014,382.3914861,448.5518326,324.3615322
+"184","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2014,310.1397203,375.1362532,255.7714722
+"185","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2013,555.9258524,670.7937868,423.775238
+"186","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2013,449.624608,555.067681,367.8117251
+"187","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2013,30.56331898,38.06094547,22.45151503
+"188","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2013,26.05130195,33.30311,19.6689239
+"189","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2013,1306.39165,1587.038063,994.7732301
+"190","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2013,1203.80523,1419.362957,995.6882331
+"191","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2013,201.5918728,238.0873246,162.6216622
+"192","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2013,148.2935178,178.1859994,122.595873
+"193","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2014,547.2603142,659.2890369,416.6875127
+"194","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2014,440.6316706,548.7258975,358.9843821
+"195","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2014,28.73662838,36.09282261,21.88433265
+"196","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2014,24.74185183,31.85887307,18.71077427
+"197","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2014,1292.142898,1553.195975,985.3414737
+"198","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2014,1193.555975,1413.625133,974.9387601
+"199","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2014,199.4259203,230.4434959,158.4389273
+"200","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2014,146.2593081,177.1651077,120.3447538
+"201","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2015,1157.464831,1390.25931,979.3364352
+"202","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2015,888.6670993,1052.094154,752.621734
+"203","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2015,106.0621875,148.4216322,78.60677948
+"204","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2015,87.96915032,126.4611242,64.04016927
+"205","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2015,2325.211748,2682.020433,2055.896433
+"206","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2015,1917.101887,2173.40196,1703.757214
+"207","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2015,384.8057434,453.6597543,324.3820394
+"208","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2015,315.8339249,378.9291859,260.9674638
+"209","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2013,1132.428117,1354.019537,950.4418076
+"210","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2013,855.3354524,987.4768556,726.0328898
+"211","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2013,105.2527474,148.0561256,77.97865326
+"212","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2013,87.09667765,124.4391447,63.12985817
+"213","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2013,2322.728136,2652.574474,2010.901909
+"214","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2013,1895.857399,2143.523979,1685.505202
+"215","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2013,382.8974512,450.3485256,319.4363266
+"216","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2013,305.510015,369.6218099,254.3923666
+"217","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2016,1174.548565,1414.592855,1004.262393
+"218","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2016,902.4673638,1067.670021,768.4199602
+"219","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2016,106.8875086,149.0287844,78.43448576
+"220","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2016,88.5379681,125.5344463,64.76923321
+"221","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2016,2333.184561,2687.048895,2079.924854
+"222","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2016,1919.336326,2167.480693,1709.10947
+"223","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2016,389.2113575,452.328761,329.9376489
+"224","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2016,320.3741554,380.1356808,266.7770031
+"225","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2017,1175.895913,1409.798419,1008.038862
+"226","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2017,902.8244139,1064.993033,769.3346656
+"227","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2017,107.700468,148.1262737,79.32301172
+"228","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2017,89.15087393,126.5789467,64.43838999
+"229","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2017,2339.031938,2663.72561,2089.163368
+"230","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2017,1923.836478,2170.316659,1707.105527
+"231","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2017,390.9740266,452.6823485,329.5533604
+"232","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2017,322.8928288,384.2029762,267.8098005
+"233","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2018,1156.594505,1389.436175,993.3596777
+"234","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2018,888.0437446,1037.104371,757.730733
+"235","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2018,107.8550006,151.7136749,77.99013559
+"236","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2018,89.34971846,127.4794182,64.5550775
+"237","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2018,2313.777992,2641.260927,2051.519221
+"238","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2018,1901.436287,2151.326988,1677.98491
+"239","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2018,389.0725654,459.2952513,331.3665271
+"240","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2018,324.179671,384.5476882,269.4768614
+"241","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2015,551.3019549,671.9585467,419.7437317
+"242","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2015,438.2888511,550.1802228,352.5128267
+"243","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2015,27.44561831,35.1640472,20.93953832
+"244","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2015,24.13626692,31.45769314,17.88580404
+"245","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2015,1295.289067,1556.588939,993.9369887
+"246","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2015,1191.570683,1402.7978,967.7558726
+"247","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2015,201.2752393,235.745058,160.8088435
+"248","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2015,146.5361345,178.2256251,120.8368507
+"249","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2019,1140.01234,1362.663796,980.7312434
+"250","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2019,876.728313,1028.241278,742.6246525
+"251","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2019,107.2462979,148.7156495,77.85582675
+"252","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2019,89.4888805,127.2216611,64.71379649
+"253","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2019,2297.962033,2638.922195,2028.573757
+"254","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2019,1889.19962,2146.61043,1664.704501
+"255","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2019,388.952892,456.8834333,331.2171012
+"256","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2019,327.1901696,389.5272174,270.5303429
+"257","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2020,1137.131948,1359.3634,976.9468437
+"258","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2020,873.8988252,1032.946275,744.0311296
+"259","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2020,108.1833345,152.315313,78.65287107
+"260","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2020,90.58461968,130.0300156,64.046055
+"261","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2020,2315.385511,2670.223567,2057.203967
+"262","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2020,1884.636445,2151.35151,1652.497577
+"263","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2020,389.6929217,457.2474142,329.241752
+"264","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2020,329.895885,394.6189693,273.6940858
+"265","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2016,566.9182376,685.9425411,430.0388285
+"266","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2016,441.2833167,560.1854155,351.0263564
+"267","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2016,26.05963774,33.757059,20.03137071
+"268","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2016,23.37261432,30.58112791,17.48414751
+"269","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2016,1317.028896,1559.449674,1008.477645
+"270","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2016,1201.182072,1394.543469,986.0385759
+"271","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2016,204.3960125,238.7251235,162.7348454
+"272","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2016,147.0560878,179.4366017,122.177265
+"273","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2021,1170.579653,1406.692249,1003.010697
+"274","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2021,903.6722411,1067.10297,760.8953761
+"275","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2021,109.5142357,157.0051474,79.32727942
+"276","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2021,91.97492247,129.9772408,64.51759816
+"277","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2021,2358.144514,2706.456197,2086.228935
+"278","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2021,1913.767887,2192.811066,1677.135192
+"279","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2021,406.7240204,474.6832419,343.401431
+"280","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2021,342.2256459,413.5220343,280.4479891
+"281","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2022,1147.540604,1355.452307,969.3429609
+"282","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2022,901.2638138,1060.064074,759.2880836
+"283","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2022,108.3910078,156.1402489,77.57099391
+"284","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2022,90.46347234,128.073933,63.91828903
+"285","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2022,2343.317489,2658.671434,2064.999835
+"286","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2022,1946.196286,2212.928275,1691.220049
+"287","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2022,399.4266991,470.1198043,337.331918
+"288","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2022,350.0822332,421.9605094,287.0352262
+"289","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2017,572.884568,694.3887605,438.9240901
+"290","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2017,438.6275815,578.6075961,351.6859914
+"291","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2017,24.22159448,31.47727929,18.61395495
+"292","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2017,22.14773471,29.34884548,16.72602007
+"293","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2017,1303.798079,1522.777324,1025.872983
+"294","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2017,1179.360278,1358.578416,964.940202
+"295","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2017,203.1508965,237.2525808,161.2959998
+"296","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2017,145.1603641,178.9656359,118.539772
+"297","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","55-59 years","Chronic kidney disease","Rate",2023,1114.509242,1326.085953,932.2515227
+"298","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","55-59 years","Chronic kidney disease","Rate",2023,890.2408668,1055.101055,739.8850475
+"299","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","<20 years","Chronic kidney disease","Rate",2023,110.5640298,161.9733556,76.28189536
+"300","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","<20 years","Chronic kidney disease","Rate",2023,93.36365418,130.1470724,65.39091864
+"301","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","60+ years","Chronic kidney disease","Rate",2023,2323.157963,2670.810562,2033.041812
+"302","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","60+ years","Chronic kidney disease","Rate",2023,1951.264999,2224.224122,1661.516377
+"303","All Population","DALYs (Disability-Adjusted Life Years)","Global","Male","20-54 years","Chronic kidney disease","Rate",2023,401.2879632,470.3170103,332.9917004
+"304","All Population","DALYs (Disability-Adjusted Life Years)","Global","Female","20-54 years","Chronic kidney disease","Rate",2023,356.8282423,432.1929017,289.7615185
+"305","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2018,565.2560958,686.4184067,441.3611699
+"306","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2018,426.7780429,552.7270241,340.171057
+"307","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2018,22.38677651,29.82237837,17.1117179
+"308","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2018,20.91791039,28.0628111,15.82779709
+"309","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2018,1245.760607,1456.154673,990.8157177
+"310","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2018,1115.951435,1274.411514,917.4077287
+"311","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2018,197.2599565,228.497284,158.1339499
+"312","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2018,140.950449,175.2857259,116.7136003
+"313","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2020,538.1345028,648.3450626,418.8815793
+"314","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2020,404.6811045,516.080079,323.3314437
+"315","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2020,20.02491159,26.47675259,15.15090768
+"316","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2020,19.4951607,26.66835798,14.27435839
+"317","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2020,1125.861687,1305.186997,927.9837612
+"318","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2020,1003.66267,1170.804151,828.883134
+"319","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2020,183.9223896,215.1594615,148.215961
+"320","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2020,133.0182954,165.0142371,108.619184
+"321","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2019,547.7381818,658.2783464,425.3660319
+"322","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2019,412.7207667,523.5709111,328.3144864
+"323","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2019,20.92163266,28.06428355,15.84540812
+"324","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2019,19.97089417,26.60538893,14.65566955
+"325","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2019,1169.271988,1362.354904,954.1825094
+"326","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2019,1045.64565,1219.862443,856.2647708
+"327","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2019,189.4295053,219.1066415,151.8913056
+"328","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2019,136.2776281,169.3947589,111.9360154
+"329","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2021,574.5476242,707.3474765,448.2324729
+"330","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2021,427.2877685,541.4827996,345.8123781
+"331","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2021,19.26476301,26.34884015,14.42923479
+"332","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2021,19.44190414,27.60169329,14.21075768
+"333","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2021,1183.853896,1362.265482,976.3291239
+"334","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2021,1049.382336,1240.752047,870.6860072
+"335","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2021,186.6874666,223.834967,152.6736189
+"336","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2021,135.5609617,168.1171159,109.7296556
+"337","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2022,619.0505885,779.8897788,482.3198723
+"338","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2022,460.9369492,614.0852701,363.4232217
+"339","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2022,18.87335621,27.08338963,13.51775366
+"340","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2022,19.10455297,27.68942254,13.1680186
+"341","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2022,1231.837819,1425.803402,1015.896965
+"342","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2022,1086.051799,1300.580068,886.9902266
+"343","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2022,193.15397,233.2742256,152.5314986
+"344","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2022,142.1254767,181.7937452,112.0501302
+"345","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","55-59 years","Chronic kidney disease","Rate",2023,535.5695603,690.1835565,405.2614914
+"346","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","55-59 years","Chronic kidney disease","Rate",2023,419.5151422,571.2334647,313.1066071
+"347","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","<20 years","Chronic kidney disease","Rate",2023,19.7625591,26.87756535,13.45598941
+"348","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","<20 years","Chronic kidney disease","Rate",2023,18.85551965,27.09627561,12.7158101
+"349","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","60+ years","Chronic kidney disease","Rate",2023,1168.458821,1419.855571,934.5392323
+"350","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","60+ years","Chronic kidney disease","Rate",2023,1080.203781,1298.899443,879.1969082
+"351","All Population","DALYs (Disability-Adjusted Life Years)","China","Male","20-54 years","Chronic kidney disease","Rate",2023,189.7080506,238.1808049,145.874119
+"352","All Population","DALYs (Disability-Adjusted Life Years)","China","Female","20-54 years","Chronic kidney disease","Rate",2023,141.0998211,180.9288642,108.9278758
+"353","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2014,1154.582641,1418.666119,923.565126
+"354","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2014,1224.562752,1508.400427,986.9723138
+"355","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"356","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"357","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2014,7379.360201,8251.71405,6669.526198
+"358","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2014,7865.589026,8778.717279,7104.330532
+"359","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"360","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"361","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2013,1582.501669,1951.693258,1284.806972
+"362","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2013,1562.472261,1924.510716,1272.079373
+"363","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"364","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"365","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2013,405.70256245,10140.24756,332.17911375
+"366","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2013,405.70256245,10138.27491,332.17911375
+"367","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"368","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"369","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2014,1578.54119,1951.100123,1281.861304
+"370","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2014,1558.781989,1919.602778,1269.288894
+"371","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"372","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"373","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"374","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2014,405.70256245,10177.36,332.17911375
+"375","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"376","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"377","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2015,1574.900222,1949.464789,1279.050542
+"378","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2015,1555.542005,1914.690604,1266.855975
+"379","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"380","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"381","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"382","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"383","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"384","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2014,405.70256245,495.38166045,332.17911375
+"385","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2013,1188.053182,1459.085736,953.4345667
+"386","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2013,1266.127137,1568.409439,1020.677413
+"387","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"388","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"389","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2013,7346.557659,8234.288919,6629.136585
+"390","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2013,7816.041007,8744.411198,7057.739791
+"391","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"392","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"393","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2016,1571.215759,1940.889875,1277.004834
+"394","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2016,1553.012229,1911.952476,1264.052123
+"395","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"396","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"397","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"398","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"399","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2016,1094.758876,1342.339025,877.1354141
+"400","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2016,1148.643717,1398.656357,926.4014716
+"401","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"402","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"403","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2016,7455.429239,8293.452952,6756.256328
+"404","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2016,7968.686231,8885.766587,7216.190295
+"405","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"406","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2013,405.70256245,495.38166045,332.17911375
+"407","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2015,1123.216647,1379.221864,898.909849
+"408","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2015,1185.237832,1452.216866,954.331247
+"409","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"410","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"411","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2015,7417.738071,8277.213614,6717.534216
+"412","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2015,7918.973306,8827.650309,7152.72704
+"413","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"414","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"415","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2018,1568.527839,1929.975158,1276.730545
+"416","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2018,1554.45034,1914.957563,1263.448134
+"417","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"418","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"419","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"420","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"421","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"422","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"423","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2017,1568.509024,1934.71641,1275.938582
+"424","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2017,1552.3286,1911.454102,1262.706618
+"425","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"426","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"427","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"428","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"429","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"430","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"431","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2019,1571.808981,1932.312144,1278.720156
+"432","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2019,1559.478194,1921.708326,1266.323312
+"433","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"434","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"435","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"436","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"437","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"438","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"439","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2020,1578.502933,1941.844369,1282.02341
+"440","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2020,1567.127071,1933.536768,1271.19778
+"441","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"442","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"443","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"444","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"445","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"446","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"447","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2021,1591.467113,1957.609778,1293.026825
+"448","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2021,1579.440583,1944.989463,1281.694095
+"449","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"450","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"451","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"452","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"453","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2017,1074.320411,1315.390147,861.9386894
+"454","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2017,1120.829929,1360.735465,905.2545218
+"455","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"456","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"457","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2017,7490.382321,8322.720943,6791.967729
+"458","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2017,8012.518231,8936.905352,7272.606361
+"459","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2018,1065.280485,1302.599269,855.569189
+"460","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2018,1105.93595,1346.238346,894.343264
+"461","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"462","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"463","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2018,7522.151618,8369.18755,6822.253837
+"464","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2018,8050.108328,8982.442272,7316.988848
+"465","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"466","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2015,405.70256245,495.38166045,332.17911375
+"467","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"468","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"469","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2022,1607.564902,1981.854608,1307.419107
+"470","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2022,1595.452086,1966.944789,1294.760207
+"471","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"472","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"473","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"474","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"475","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"476","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2016,405.70256245,495.38166045,332.17911375
+"477","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"478","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2017,405.70256245,495.38166045,332.17911375
+"479","All Population","Prevalence","Global","Male","55-59 years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"480","All Population","Prevalence","Global","Female","55-59 years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"481","All Population","Prevalence","Global","Male","<20 years","Chronic kidney disease","Rate",2023,1605.463177,1982.975709,1302.79166
+"482","All Population","Prevalence","Global","Female","<20 years","Chronic kidney disease","Rate",2023,1606.096188,1972.485637,1301.227945
+"483","All Population","Prevalence","Global","Male","60+ years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"484","All Population","Prevalence","Global","Female","60+ years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"485","All Population","Prevalence","Global","Male","20-54 years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"486","All Population","Prevalence","Global","Female","20-54 years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"487","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2019,1067.228159,1304.410451,857.0364877
+"488","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2019,1103.93627,1348.487903,893.7665149
+"489","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"490","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"491","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2019,7553.284409,8423.87876,6849.134241
+"492","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2019,8085.509013,9028.842325,7350.306626
+"493","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2020,1078.524792,1318.30603,866.4191229
+"494","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2020,1113.492168,1361.350047,902.4913298
+"495","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"496","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"497","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2020,7584.861374,8468.105655,6870.367925
+"498","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2020,8120.937259,9081.480577,7374.902049
+"499","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"500","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2019,405.70256245,495.38166045,332.17911375
+"501","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"502","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2018,405.70256245,495.38166045,332.17911375
+"503","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2022,1145.87856,1391.762923,921.4653535
+"504","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2022,1189.7467,1450.527622,962.1247391
+"505","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"506","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"507","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2022,7982.621272,8916.740755,7239.200035
+"508","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2022,8570.284361,9535.517616,7739.294421
+"509","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2021,1102.891099,1337.496844,887.2976694
+"510","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2021,1140.809905,1392.513037,924.0217118
+"511","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"512","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"513","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2021,7714.215495,8601.121761,6992.40346
+"514","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2021,8264.558103,9207.190203,7489.109755
+"515","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"516","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2021,405.70256245,495.38166045,332.17911375
+"517","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"518","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2020,405.70256245,495.38166045,332.17911375
+"519","All Population","Prevalence","China","Male","<20 years","Chronic kidney disease","Rate",2023,1214.837234,1503.281618,974.2554177
+"520","All Population","Prevalence","China","Female","<20 years","Chronic kidney disease","Rate",2023,1262.577016,1553.812904,1010.678536
+"521","All Population","Prevalence","China","Male","60+ years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"522","All Population","Prevalence","China","Female","60+ years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"523","All Population","Prevalence","China","Male","20-54 years","Chronic kidney disease","Rate",2023,8677.67827,9699.401667,7777.947175
+"524","All Population","Prevalence","China","Female","20-54 years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"525","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"526","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2022,405.70256245,495.38166045,332.17911375
+"527","All Population","Prevalence","China","Male","55-59 years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
+"528","All Population","Prevalence","China","Female","55-59 years","Chronic kidney disease","Rate",2023,405.70256245,495.38166045,332.17911375
