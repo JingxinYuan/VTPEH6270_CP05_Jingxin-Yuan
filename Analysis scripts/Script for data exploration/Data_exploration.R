@@ -203,8 +203,9 @@ p3 <- ggplot(data_ckd_old, aes(x = year, y = val, color = sex_name)) +
   )
 ggsave("C:/Users/乌乌没有仙人/Desktop/6270/HW5/VTPEH6270_CP05_Jingxin-Yuan/Output/Figures/Gender trend on mortality of CKD of 60+ years people in China.png",plot = p3)
 
+# Visualize mortality difference between male and female
 p4 <- ggplot(data_ckd_old, aes(x = year, y = mortality_difference)) +
-  geom_col() +
+  geom_col(fill = "grey") +
   geom_hline(yintercept = 0, linetype = "dashed") +
   labs(
     title = "Sex Difference in CKD Mortality (Male − Female)",
@@ -213,7 +214,6 @@ p4 <- ggplot(data_ckd_old, aes(x = year, y = mortality_difference)) +
   ) +
   theme_minimal() +
   theme(
-    plot.title = element_text(hjust = 0.5),
-    legend.position = "top"
+    plot.title = element_text(hjust = 0.5)
   )
 ggsave("C:/Users/乌乌没有仙人/Desktop/6270/HW5/VTPEH6270_CP05_Jingxin-Yuan/Output/Figures/Mortality difference between gender of CKD of 60+ years people in China.png",plot = p4)
