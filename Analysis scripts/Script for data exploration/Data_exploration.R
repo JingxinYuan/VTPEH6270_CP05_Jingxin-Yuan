@@ -134,6 +134,13 @@ ggsave("C:/Users/乌乌没有仙人/Desktop/6270/HW5/VTPEH6270_CP05_Jingxin-Yuan
 
 
 # Part 5: Broad trend exploration
+#Create subset
+data_ckd_scatterplot <- data_ckd %>%
+  filter(
+    location_name == "China",
+    age_name == "60+ years",
+    measure_name %in% c("Prevalence","DALYs (Disability-Adjusted Life Years)","Deaths")
+  )
 # Scatterplot on the burden of CKD of 60+ years people in China
 p2 <- ggplot(data_ckd_scatterplot, aes(x = year, y = val, color = sex_name)) +
   geom_point(alpha = 0.7) +
