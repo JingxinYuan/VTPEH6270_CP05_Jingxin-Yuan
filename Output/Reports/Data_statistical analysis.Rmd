@@ -1,0 +1,23 @@
+---
+title: "Data_statistical analysis"
+author: "Jingxin Yuan"
+date: "`r Sys.Date()`"
+editor_options:
+  chunk_output_type: console
+output:
+  pdf_document:
+    latex_engine: xelatex
+    fig_crop: false
+    toc: true
+    toc_depth: 1
+    number_sections: true
+urlcolor: blue
+---
+
+```{r setup, include = FALSE}
+
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+```
+
+# Introduction
