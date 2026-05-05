@@ -51,6 +51,9 @@ ui <- fluidPage(
     ),
     
     mainPanel(
+      h3("Github link"),
+      p("https://github.com/JingxinYuan/VTPEH6270_Jingxin-Yuan"),
+      
       h3("Question"),
       p("Do CKD burden rates among adults aged 60+ in China differ by sex over time?"),
       
